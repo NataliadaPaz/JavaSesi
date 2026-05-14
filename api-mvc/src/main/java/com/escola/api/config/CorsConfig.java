@@ -20,6 +20,7 @@ public class CorsConfig {
             "http://localhost:8081",    // Expo Web
             "http://localhost:19000",   // Expo Go Web
             "http://127.0.0.1:8081",
+            "http://127.0.0.1:5500/WebApp/index.html", // WebApp
             "http://127.0.0.1:19000"
         ));
         
